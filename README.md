@@ -104,6 +104,8 @@ This will start your project on `http://localhost:5173`.
 - The **Navbar** updates dynamically, showing login/logout buttons based on authentication.
 
 ---
+#Demo Video  Link:
+https://drive.google.com/file/d/1s1eBNxlhnXFXxys2psk3qDvOoktx41m8/view?usp=drivesdk
 
 ## 🎨 Tech Stack
 - **Frontend:** React, Vite, Tailwind CSS
