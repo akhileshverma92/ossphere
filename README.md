@@ -116,6 +116,7 @@ https://drive.google.com/file/d/1s1eBNxlhnXFXxys2psk3qDvOoktx41m8/view?usp=drive
 
 ---
 
+
 ## 🤝 Contributing
 Want to contribute? Fork the repo and submit a pull request!  
 - Create a new branch: `git checkout -b feature-name`
@@ -124,6 +125,12 @@ Want to contribute? Fork the repo and submit a pull request!
 - Open a pull request!
 
 ---
+## 👥 Team
+
+Meet our contributors and maintainers:
+
+- *Contributor 1* - [ https://github.com/hariom8787 ]
+- *Contributor 2* - [ https://github.com/akhileshverma92 ]
 
 ## 📄 License
 MIT License © 2025 OSSphere  
