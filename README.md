@@ -23,6 +23,13 @@ Osshpere is a web application that allows users to seamlessly log in using their
 - Appwrite
 - JavaScript
 ---
+## Project Diagram
+
+<a href="https://app.eraser.io/workspace/YuGGJw7yrqINftWFZsE8?elements=4C46jE4XIkdgkFmpnOFvXQ">
+  <img src="https://app.eraser.io/workspace/YuGGJw7yrqINftWFZsE8/preview?elements=4C46jE4XIkdgkFmpnOFvXQ&type=embed" 
+       alt="View on Eraser" 
+       width="400" height="800"/>
+</a>
 
 ## **📂 Folder Structure for OSSphere**
 ```
